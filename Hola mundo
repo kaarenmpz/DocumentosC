@@ -1,0 +1,7 @@
+este texto es para crear un archivo de texto desde y agregar un codigo C para enviar un saludo
+#include <stdio.h>
+
+int main() {
+    printf("Hola, mundo\n");
+    return 0;
+}
