@@ -2,6 +2,6 @@ este texto es para crear un archivo de texto desde y agregar un codigo C para en
 #include <stdio.h>
 
 int main() {
-    printf("Hola, mundo\n");
+    printf("Hola, PLEBONES\n");
     return 0;
 }
